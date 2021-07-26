@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Mohammed Saad
+- 👀 I’m interested in pyhotn programing as well as machine learning and artificial intelligence 
+- 🌱 I’m currently learning pyhton and machine learnign
+- 💞️ I’m looking to collaborate on begenars level pyhon and ML projects
+- 📫 I am always reachable on saadmd0134@gmail.com and mohammedsaad.salik@gmail.com
+
+<!---
+mdsaad0134/mdsaad0134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
